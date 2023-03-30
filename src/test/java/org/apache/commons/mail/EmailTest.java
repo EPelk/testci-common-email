@@ -31,7 +31,7 @@ public class EmailTest {
 	 */
 	@Before
 	public void setup() {
-		email = new EmailDummy();
+		email = new EmailDummy()
 	}
 	
 	
